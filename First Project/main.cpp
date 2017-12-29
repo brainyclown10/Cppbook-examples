@@ -3,7 +3,8 @@
 //  First Project
 //
 //  Created by Brandon Hu on 12/28/17.
-//  Copyright © 2017 Brandon Hu. All rights x
+//  Copyright © 2017 Brandon Hu. All rights reserved.
+//
 
 #include <iostream>
 
