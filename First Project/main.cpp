@@ -23,7 +23,7 @@ int main()
                 cnt = 1; // reset the counter
             }
         } // while loop ends here
-        // remember to prin the count for the last value in the file
+        // remember to print the count for the last value in the file
         std::cout << currVal << " occurs " << cnt << " times" << std::endl;
     } // outermost if statement ends here
     return 0;
